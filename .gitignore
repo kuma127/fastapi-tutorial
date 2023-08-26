@@ -130,3 +130,5 @@ dmypy.json
 
 # local
 fastapi_tutorial/*
+*.zip
+sample_src/*
