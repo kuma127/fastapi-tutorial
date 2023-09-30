@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # local
-fastapi_tutorial/*
+.fastapi_tutorial/*
 *.zip
 sample_src/*
